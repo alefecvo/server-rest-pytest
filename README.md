@@ -2,7 +2,7 @@
 
 Este é um exemplo básico de um projeto de automação de testes de API REST usando Python, `requests` e `pytest`.
 
-Vamos la...
+Vamos la.
 
 ## Estrutura do Projeto
 
