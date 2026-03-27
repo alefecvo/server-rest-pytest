@@ -1,6 +1,6 @@
 # Projeto de Automação de Testes de API REST com Python
 
-Este é um exemplo básico de um projeto de automação de testes de API REST usando Python, `requests` e `pytest`.
+Este é um exemplo básico de um projeto de automação de testes de API REST usando Python, `requests` e `pytest` - testing.
 
 Vamos la.
 
